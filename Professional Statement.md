@@ -1,1 +1,1 @@
-I am a motivated and dedicated Information Security student, driven by a passion for acquiring new knowledge. I highly value the continuous improvement and honing of my skills, striving to excel and be the best in my field.
+I am a <b>motivated</b> and <b>dedicated</b> Information Security student, driven by a passion for acquiring new knowledge. I highly value the continuous improvement and honing of my skills, striving to excel and be the best in my field.
